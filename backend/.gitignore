@@ -1,0 +1,14 @@
+# Node dependencies
+node_modules/
+package-lock.json
+
+# AWS Deployment files
+backend.zip
+lambda.zip
+
+# Environment files
+.env
+.env_backup
+
+# Logs and cache
+*.log
